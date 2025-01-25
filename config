@@ -1,4 +1,6 @@
 font-family = "FiraCode Nerd Font"
-font-size = 16
+font-size = 15
 theme = "catppuccin-frappe"
-
+adjust-cell-height = 5
+window-padding-x=0
+window-padding-y=0
